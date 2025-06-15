@@ -7,7 +7,7 @@
 - 💻 Microcontrollers: ESP32, Arduino, STM32 (learning)
 - ⏱️ RTOS: FreeRTOS(learning),
 - 📡 Communication Protocols: UART, I2C , (Learning CAN, LIN, MQTT)
-- 🛠️ Tools: Arduino IDE,  PlatformIO, Excel (VBA)
+- 🛠️ Tools: Arduino IDE,  PlatformIO, Excel (VBA), Tia portal, Matlab
 
 ### 💡 Projects & Experiments
 
